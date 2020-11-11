@@ -4,11 +4,11 @@
 
 
 
-### yahoo! ヤフオク
+###### yahoo! ヤフオク
 https://auctions.yahoo.co.jp/
 
 
-### yahoo クラウドソーシング
+###### yahoo クラウドソーシング
 https://crowdsourcing.yahoo.co.jp/
 
 ---
